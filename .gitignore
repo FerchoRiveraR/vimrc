@@ -1,0 +1,10 @@
+.netrwhist
+
+# This is the directory where persistent undo will be stored.
+undodir/
+
+# I initially don't want my local wiki committed.
+wiki/
+
+# I initially don't want my bookmarks file to be committed.
+bookmarks
