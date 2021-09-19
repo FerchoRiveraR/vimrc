@@ -84,5 +84,9 @@ let mapleader=","
 nmap <F5> :set invrelativenumber<CR>
 imap <F5> <ESC>:set invrelativenumber<CR>a
 
+" Toggle of line numbering
+nmap <F4> :set number!<CR>
+imap <F4> <ESC>:set number!<CR>a
+
 " Double ESC the terminal to exit terminal-job mode.
 tnoremap <Esc><Esc> <C-\><C-n>
