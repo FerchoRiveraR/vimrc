@@ -33,7 +33,7 @@ set hidden
 if &t_Co > 2
 	syntax on
 	silent! colorscheme dim
-	set background=dark
+	set background=light
 
 	highlight Folded cterm=reverse ctermbg=0 ctermfg=8
 	highlight VertSplit cterm=NONE ctermbg=NONE ctermfg=8
@@ -43,7 +43,7 @@ if &t_Co > 2
 	highlight DiffDelete ctermfg=red cterm=bold
 	highlight DiffChange ctermfg=yellow
 
-	set colorcolumn=80
+	set colorcolumn=120
 
 	" Sometimes I see the syntax be out of sync
 	noremap <F12> <Esc>:syntax sync fromstart<CR>

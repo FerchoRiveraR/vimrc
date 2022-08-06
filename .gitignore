@@ -8,3 +8,6 @@ wiki/
 
 # I initially don't want my bookmarks file to be committed.
 bookmarks
+
+# macos
+.DS_Store
