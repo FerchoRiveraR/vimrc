@@ -72,10 +72,10 @@ set relativenumber      " show numbers as relative by default
 set showmatch           " higlight matching parentheses and brackets
 
 " Shortcuts for switching the buffers
-map <C-N> :bnext<CR>
-map <C-P> :bprev<CR>
-imap <C-N> <Esc>:bnext<CR>i
-imap <C-P> <Esc>:bprev<CR>i
+map <C-B>n :bnext<CR>
+map <C-B>p :bprev<CR>
+imap <C-B>n <Esc>:bnext<CR>i
+imap <C-B>p <Esc>:bprev<CR>i
 
 let mapleader=","
 
