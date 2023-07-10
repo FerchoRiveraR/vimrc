@@ -10,3 +10,12 @@
 [submodule "pack/ruby/start/vim-ruby"]
 	path = pack/ruby/start/vim-ruby
 	url = https://github.com/vim-ruby/vim-ruby.git
+[submodule "pack/ruby/start/vim-rails"]
+	path = pack/ruby/start/vim-rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "pack/ruby/start/vim-bundler"]
+	path = pack/ruby/start/vim-bundler
+	url = https://github.com/tpope/vim-bundler.git
+[submodule "pack/ruby/start/vim-rake"]
+	path = pack/ruby/start/vim-rake
+	url = https://github.com/tpope/vim-rake.git
