@@ -62,11 +62,11 @@ map <C-B>p :bprev<CR>
 
 let mapleader=","
 
-nmap <silent> <C-T>n :set relativenumber!<cr>
-map <C-E> :Explore<cr>
-map <C-E>l :Lexplore<cr>
-map <C-E>r :Lexplore!<cr>
-map <C-E>t :Texplore<cr>
+nmap <Leader>n :set relativenumber!<cr>
+map <Leader>e :Explore<cr>
+map <Leader>el :Lexplore<cr>
+map <Leader>er :Lexplore!<cr>
+map <Leader>et :Texplore<cr>
 
 " Double ESC the terminal to exit terminal-job mode.
 tnoremap <Esc><Esc> <C-\><C-n>

@@ -1,27 +1,15 @@
-[submodule "pack/fercho/start/ale"]
-	path = pack/fercho/start/ale
+[submodule "pack/coding/start/ale"]
+	path = pack/coding/start/ale
 	url = https://github.com/dense-analysis/ale.git
-[submodule "pack/theme/start/base16-vim"]
-	path = pack/theme/start/base16-vim
-	url = https://github.com/chriskempson/base16-vim.git
-[submodule "pack/fercho/start/vim-gitgutter"]
-	path = pack/fercho/start/vim-gitgutter
+[submodule "pack/coding/start/editorconfig-vim"]
+	path = pack/coding/start/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "pack/editor/start/vim-gitgutter"]
+	path = pack/editor/start/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter.git
-[submodule "pack/ruby/start/vim-ruby"]
-	path = pack/ruby/start/vim-ruby
-	url = https://github.com/vim-ruby/vim-ruby.git
-[submodule "pack/ruby/start/vim-rails"]
-	path = pack/ruby/start/vim-rails
-	url = https://github.com/tpope/vim-rails.git
-[submodule "pack/ruby/start/vim-bundler"]
-	path = pack/ruby/start/vim-bundler
-	url = https://github.com/tpope/vim-bundler.git
-[submodule "pack/ruby/start/vim-rake"]
-	path = pack/ruby/start/vim-rake
-	url = https://github.com/tpope/vim-rake.git
-[submodule "pack/fercho/start/editorconfig-vim"]
-	path = pack/fercho/start/editorconfig-vim
-	url = https://github.com/editorconfig/editorconfig-vim
+[submodule "pack/coding/start/vim-polyglot"]
+	path = pack/coding/start/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot.git
 [submodule "pack/lsp/start/asyncomplete"]
 	path = pack/lsp/start/asyncomplete
 	url = https://github.com/prabirshrestha/asyncomplete.vim.git
@@ -34,6 +22,6 @@
 [submodule "pack/lsp/start/vim-lsp-settings"]
 	path = pack/lsp/start/vim-lsp-settings
 	url = https://github.com/mattn/vim-lsp-settings.git
-[submodule "pack/fercho/start/vim-numbertoggle"]
-	path = pack/fercho/start/vim-numbertoggle
-	url = https://github.com/jeffkreeftmeijer/vim-numbertoggle.git
+[submodule "pack/theme/start/base16-vim"]
+	path = pack/theme/start/base16-vim
+	url = https://github.com/chriskempson/base16-vim.git

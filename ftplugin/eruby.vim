@@ -1,2 +1,1 @@
-setlocal sw=2 sts=2
-setlocal regexpengine=1
+setlocal nocursorline
